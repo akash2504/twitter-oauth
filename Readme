@@ -1,7 +1,7 @@
-# Install Oauth Library
+## Install Oauth Library
 go get github.com/mrjones/oauth
 
-#Run the code
-
+##Run the code
 1- twitter.go => Get last post on your newsfeed
-
+### Usage
+go run twitter.go --consumerKey=<consumerKey> --consumerSecret=<consumerSecret> 
