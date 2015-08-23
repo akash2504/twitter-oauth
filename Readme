@@ -4,4 +4,7 @@ go get github.com/mrjones/oauth
 ##Run the code
 1- twitter.go => Get last post on your newsfeed
 ### Usage
-go run twitter.go --consumerKey=<consumerKey> --consumerSecret=<consumerSecret> 
+go run twitter.go --consumerKey=<consumerKey> --consumerSecret=<consumerSecret>
+
+2- post-status.go => to post status on Twitter
+go run twitter.go --consumerKey=<consumerKey> --consumerSecret=<consumerSecret>
